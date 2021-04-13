@@ -1,0 +1,55 @@
+#main {
+    width: 150px;
+}
+
+#cricket {
+    width: 300px;
+    height: 250px;
+}
+
+#coding {
+    width: 300px;
+    height: 250;
+}
+
+#guitar {
+    width: 300px;
+    height: 300px;
+}
+  
+#hobbie {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.font-size-35 {
+    font-size: 20px;
+}
+
+#Home {
+    border-color: deepskyblue;
+    border-width: 7.5px;
+    background-color: aqua;
+    border-radius: 50px;
+}
+
+#Hobbies {
+    border-color: red;
+    border-width: 7.5px;
+    background-color: lightyellow;
+    border-radius: 50px;
+}
+
+#Events_and_Places {
+    border-color: forestgreen;
+    border-width: 7.5px;
+    background-color: lightgreen;
+    border-radius: 50px;
+}
+
+#Contact_Us {
+    border-color: orangered;
+    border-width: 7.5px;
+    background-color: lightpink;
+    border-radius: 50px;
+}
